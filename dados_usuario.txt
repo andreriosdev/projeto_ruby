@@ -2,3 +2,7 @@ Nome: André
 Idade: 44
 Cidade: Brasília
 ---
+Nome: André
+Idade: 44
+Cidade: Brasília
+---
